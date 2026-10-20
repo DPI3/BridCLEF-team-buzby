@@ -33,6 +33,7 @@ Some species with occurrences in the hidden test data might only have train samp
 
 ## 1.2 Clean data
 Probably data in train_audio/ need cleaning only.
+- make sure every sample is in 32kHz and in ogg format
 - iNat1693371 is probably an accidental/corrupted recording, contains no bird sound. Those should be dropped from data. It is short, so probably recordings shorter than xx sec are flawed.  
 3 sec long samples look okay, I suggest 2 sec for xx
 
