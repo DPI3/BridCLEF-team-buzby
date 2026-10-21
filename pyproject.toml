@@ -1,0 +1,10 @@
+[project]
+name = "birdclef-team-buzby"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "kagglehub>=1.0.2",
+    "pandas>=3.0.6",
+    "tinytag>=2.3.2",
+]
