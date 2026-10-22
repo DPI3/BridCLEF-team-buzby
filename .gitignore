@@ -221,3 +221,5 @@ __marimo__/
 
 # Competition data (downloaded from Kaggle)
 data/
+
+*.vscode
