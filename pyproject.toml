@@ -1,7 +1,7 @@
 [project]
 name = "birdclef-team-buzby"
 version = "0.1.0"
-# TensorFlow (data preparation, Part 2 of birdclef_draft_01) has no wheels for Python 3.14 yet.
+# TensorFlow (data preparation, Part 2 of Milestone_1.ipynb) has no wheels for Python 3.14 yet.
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "ipykernel>=7.4.0",
